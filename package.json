@@ -1,0 +1,11 @@
+{
+  "name": "baram-forest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "저장하지 않는 혼자만의 대나무숲",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check app.js && node --check evidence.js && node --check server.mjs"
+  }
+}
