@@ -7,6 +7,7 @@ const assets = new Map([
   ['/style.css', ['style.css', 'text/css; charset=utf-8']],
   ['/sanctuary.css', ['sanctuary.css', 'text/css; charset=utf-8']],
   ['/evidence.css', ['evidence.css', 'text/css; charset=utf-8']],
+  ['/motion.css', ['motion.css', 'text/css; charset=utf-8']],
   ['/evidence.js', ['evidence.js', 'text/javascript; charset=utf-8']],
   ['/app.js', ['app.js', 'text/javascript; charset=utf-8']],
 ]);
